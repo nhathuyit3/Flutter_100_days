@@ -25,3 +25,24 @@ doc/api/
 
 .flutter-plugins
 .flutter-plugins-dependencies
+
+# Avoid commiting special file
+*.png
+*.xml
+*.json
+*.xcsettings
+*.gradle
+*.plist
+*.xcworkspacedata
+*.xcscheme
+*.pbxproj
+*.storyboard
+*.md
+*.h
+*.swift
+*.xcconfig
+*.properties
+*.kt
+*.yaml
+.gitignore
+.metadata
